@@ -12,6 +12,7 @@ venv/
 
 # Chroma / Vector DB
 data/chroma/
+backend/data/
 
 # OS
 .DS_Store
