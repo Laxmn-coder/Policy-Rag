@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+env/
+venv/
+.venv/
+
+# Chroma / Vector DB
+data/chroma/
+
+# OS
+.DS_Store
+Thumbs.db
+
